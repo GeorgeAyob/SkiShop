@@ -1,0 +1,63 @@
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-snow {
+    background-image:url(Pics/dane-deaner-j5asemKMmQY-unsplash.jpg);
+    background-size:cover;
+}
+
+.bg-picture{
+    background-image:url(Pics/max-kukurudziak-_8h7TrklnHQ-unsplash.jpg);
+    background-size: 100%;
+}
+
+.bg-picture2{
+    background-image:url(Pics/maarten-duineveld-pmfJcN7RGiw-unsplash.jpg);
+    background-size: 100%;
+}
+
+.bg-picture3{
+    background-image:url(Pics/andreas-wagner-eI-nOb1K5gE-unsplash.jpg);
+    background-size: 100%;
+}
+
+.bg-picture4{
+    background-image:url(Pics/cabin.jpeg);
+    background-size: 100%;
+}
+
+.bg-orange{background-color: black;color: aliceblue; font-weight:600;text-align:center}
+.m-right{border: 2px solid black; border-right: 2px solid white;}
+
+
+
+.carousel {
+    max-height: 624px;
+    overflow: hidden;
+}
+
+.carousel-caption{
+    top:0px;
+
+}
+
+.spaceCenter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: -124.75px;
+}
+
+.moveLeft{
+    margin-left: 0px;
+}
+
+.sticky{
+    position: fixed;
+    top:0px;
+    width: 100%;
+    z-index: 100;
+}
+
